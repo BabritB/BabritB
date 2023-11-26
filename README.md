@@ -32,3 +32,6 @@
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
 ![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
 ![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=Selenium)
+
+
+![Babrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabritB&show_icons=true&theme=radical)

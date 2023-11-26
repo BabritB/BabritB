@@ -1,16 +1,11 @@
-### Hi there 👋
-
-<!--
-**BabritB/BabritB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi, I'm Babrit Behera
+ 
+## I'm a Machine Learning & AI Developer.
+* 🌱 I'm currently practicing Docker,Kubernetes and End to End App implementaion onto production.
+* 🐳 I'm currently working on developing ML and AI models 😁
+* 🏠 I love to contribute to Home automation projects 😁
+* 🤖 I love electronics and DIY projects 😁
+* 🥅 2024 Goals: Try to contribute to Open Source projects
+* 💬 Ask me about anything, I am happy to help 😄
+* 🧗 I try to: Go beyond and push the bounds
+* ⚡ Fun fact: I love connecting with different people 🙌

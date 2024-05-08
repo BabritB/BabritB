@@ -1,7 +1,7 @@
 # Hi, I'm Babrit Behera
  
-## I'm a Machine Learning & AI Developer.
-* 🌱 I'm currently practicing Docker,Kubernetes and End to End App implementaion onto production.
+## I'm a Machine Learning & AI Engineer.
+* 🌱 I'm currently practicing Docker,Kubernetes,Ansible with LLMs, GenAI, Computer Vision and End to End App implementaion onto production.
 * 🐳 I'm currently working on developing ML and AI models 😁
 * 🏠 I love to contribute to Home automation projects 😁
 * 🤖 I love electronics and DIY projects 😁

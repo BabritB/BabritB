@@ -28,10 +28,16 @@
 ### Libraries and Frameworks
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=flat&logo=dotnet)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-333333?style=flat&logo=fastapi)
-![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+![Flas![SciPy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white)k](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-333333?style=flat&logo=bootstrap)
-![jQuery](https://img.shields.io/badge/-jQuery-333333?style=flat&logo=jquery)
-![Selenium](https://img.shields.io/badge/-Selenium-333333?style=flat&logo=Selenium)
+![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/perplexity-000000?style=for-the-badge&logo=perplexity&logoColor=088F8F)
+![Amazon S3](https://img.shields.io/badge/Amazon%20S3-FF9900?style=for-the-badge&logo=amazons3&logoColor=white)
+![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)
+![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
+
 
 
 ![Babrit's GitHub stats](https://github-readme-stats.vercel.app/api?username=BabritB&show_icons=true&theme=radical)
